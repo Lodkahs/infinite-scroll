@@ -10,7 +10,7 @@ let imagesLoaded = 0
 let totalImages = 0
 
 const count = 30
-const apiKey = 'qLOIXHX9eE9S7m-xwSnRNn0sWM42YaoAB8-xq829U1Y'
+const apiKey = ''
 const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`
 
 //check if all images were loaded
